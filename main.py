@@ -1,4 +1,3 @@
-
 Materials = {"AAA" : "Copic Markers",
 "AAB" : "Graphite Pencils",
 "ABA" : "Colored Pencils",
@@ -25,3 +24,4 @@ Choice7 = input("Which do you prefer? \nA) Anime \nB) Realism \n")
 Choice8 = input("Do you watch anime? \nA) Of course! I'm a weeb and proud of it! \nB) Never. \n")
 Choice9 = input("Do you watch art turorials? \nA) All the time! \nB) Nope. \n")
 Choice10 = input("Do you think digital art is REAL art? \nA) Of course it is! \nB) Digital art isn't real! \n")
+print(Materials[Choice1+Choice2+Choice3])
